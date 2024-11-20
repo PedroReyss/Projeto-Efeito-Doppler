@@ -7,19 +7,19 @@ Criar um **Software interativo** que simule o **Efeito Doppler**, fenômeno fís
 
 ## Principais Componentes do Projeto
 ### 🔢 Cálculo Avançado
---> A geração de áudio no programa utiliza uma onda senoidal, construída com base na série de Maclaurin para garantir precisão no cálculo das frequências.
+--> **A geração de áudio** no programa utiliza uma **onda senoidal**, construída com base na **série de Maclaurin** para garantir precisão no cálculo das frequências.
 
 ### 💾 Banco de Dados
-A aplicação faz uso do SQL Server para armazenar os dados das simulações, permitindo:
+A aplicação faz uso do **SQL Server** para armazenar os dados das simulações, permitindo:
 
---> Registro detalhado de cada experimento.
+--> Registro **detalhado** de cada experimento.
 
 
---> Reutilização e análise posterior dos resultados para estudos avançados.
+--> **Reutilização e análise** posterior dos resultados para estudos avançados.
 
 ### 💻 Aspectos Técnicos do Programa
---> Linguagem de programação: Java.
+--> **Linguagem de programação:** Java.
 
---> Interface gráfica: Desenvolvida com JavaFX, proporcionando uma experiência de uso amigável e intuitiva.
+--> **Interface gráfica:** Desenvolvida com JavaFX, proporcionando uma experiência de uso amigável e intuitiva.
 
---> Integração com Banco de Dados: Utilizando Java Maven para conectar o software ao SQL Server.
+--> **Integração com Banco de Dados:** Utilizando Java Maven para conectar o software ao SQL Server.
